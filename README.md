@@ -1,0 +1,1 @@
+A full-featured Pharmacy Management System designed to manage medicines, sales, billing, and inventory efficiently. Built using MySQL and a user-friendly interface for pharmacies and healthcare centers.
